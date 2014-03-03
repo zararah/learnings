@@ -37,7 +37,7 @@ L
 
 M
 
-* [Monkey patching](https://en.wikipedia.org/wiki/Monkey_patch) - fixing a problem without fixing it at the source, but rather by adding a workaround elsewhere. See [examples on Stackoverflow](https://stackoverflow.com/questions/5626193/what-is-monkey-patch)
+* [Monkey patching](https://en.wikipedia.org/wiki/Monkey_patch) - fixing a problem without fixing it at the source, but rather by adding a workaround elsewhere. See [examples on Stackoverflow.](https://stackoverflow.com/questions/5626193/what-is-monkey-patch)
 
 N
 
@@ -64,7 +64,6 @@ W
 X
 
 Y
-* [Yak shaving](https://en.wiktionary.org/wiki/yak_shaving) - [invented by Carlin Vieri of MIT](http://projects.csail.mit.edu/gsb/old-archive/gsb-archive/gsb2000-02-11.html)
-Z) back in the 90s, it is the act of doing a little task that has no obvious relationship to your intended task, but which is somehow linked to that main aim through a chain of other activities.
+* [Yak shaving](https://en.wiktionary.org/wiki/yak_shaving) - [invented by Carlin Vieri of MIT](http://projects.csail.mit.edu/gsb/old-archive/gsb-archive/gsb2000-02-11.html) back in the 90s, it is the act of doing a little task that has no obvious relationship to your intended task, but which is somehow linked to that main aim through a chain of other activities.
 
 Z
