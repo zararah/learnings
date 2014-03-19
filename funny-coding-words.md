@@ -1,4 +1,3 @@
-
 A list of funny terms floating around the coding world, and their origins. Please feel free to add more suggestions, definitions or examples! 
 
 A
@@ -52,6 +51,8 @@ R
 * [Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging) - a reference to a story in the book [The Pragmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer), it is the process of explaining a programming problem to someone else, possibly even to someone who knows nothing about programming (eg. a rubber duck), and realising the solution while doing so. 
 
 S
+
+* [Spam](http://en.wikipedia.org/wiki/Spamming) - spamming is the use of electronic messaging systems to send unsolicited bulk messages (spam). The origin of the word spam comes from the famous British sketch Monty Python, watch [this video](https://www.youtube.com/watch?v=anwy2MPT5RE).
 
 T
 
