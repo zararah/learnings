@@ -12,6 +12,7 @@ C
 
 
 * [Cargo cult programming](https://en.wikipedia.org/wiki/Cargo_cult_programming) - "a style of computer programming characterized by the ritual inclusion of code or program structures that serve no real purpose"
+* [Cowboy coding](http://c2.com/cgi/wiki?CowboyCoder) - programmers who write code according to their own rules. They may be very good at writing code, but tey don't generally follow standard processes or policies.
 
 
 D
