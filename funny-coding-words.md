@@ -55,6 +55,8 @@ R
 
 S
 
+* [Scroll-jank] - The effects of a poorly programmed infinite scroller.
+
 * [Spam](http://en.wikipedia.org/wiki/Spamming) - spamming is the use of electronic messaging systems to send unsolicited bulk messages (spam). The origin of the word spam comes from the famous British sketch Monty Python, watch [this video](https://www.youtube.com/watch?v=anwy2MPT5RE).
 
 T
